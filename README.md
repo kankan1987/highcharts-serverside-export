@@ -1,4 +1,4 @@
-Highcharts Serverside Export
+Highcharts Serverside Export（解决java调用jquery执行js脚本问题）
 ============================
 
 The primary goal of the Highcharts Serverside Export framework (HSE) is to provide a java API for Highcharts including image generation capabilities.
